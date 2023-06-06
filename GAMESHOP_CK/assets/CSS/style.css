@@ -1,0 +1,34 @@
+html {
+    position: relative;
+    min-height: 100%;
+    background-color: aliceblue;
+}
+
+.bg-custom {
+    background-color: darkslategrey;
+    color: antiquewhite;
+}
+
+.bg-custom a {
+    color: antiquewhite;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: darkslategrey;
+    color: antiquewhite;
+}
+
+.py-5 {
+    background-color: aliceblue;
+}
+
+.my-4 {
+    background-color: aliceblue; 
+}
+
+body {
+    background-color: aliceblue;
+}
